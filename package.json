@@ -1,0 +1,25 @@
+{
+  "name": "meteor-vue-example",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "droply": "0.0.3",
+    "meteor-node-stubs": "^0.3.2",
+    "vue": "^2.5.3",
+    "vue-meteor-tracker": "^1.2.3",
+    "vue-router": "^3.0.1",
+    "vue2-medium-editor": "^1.1.2",
+    "vuetify": "^0.16.9"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.10.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-html": "^3.2.2",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
