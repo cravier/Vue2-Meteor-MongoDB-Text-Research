@@ -28,6 +28,7 @@ db.documents.createIndex({
 - meteor update
 - meteor npm install
 - set/export MONGO_URL=mongodb://[user]:[password]@[HOST]:[PORT]/[DATABASE]
+- meteor
 
 ## Libs & Plugins used
 - <a href="https://vuetifyjs.com/">Vuetifyjs</a>
