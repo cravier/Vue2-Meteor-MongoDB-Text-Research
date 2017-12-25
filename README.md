@@ -2,7 +2,8 @@
 
 Simple Vue2/Meteor/MongoDB app that illustrate the index text research with content/titles and tags system of files.
 
-Please note that the app is a simple example and could be improved in many ways (features, user feedback etc). 
+<b>Please note that the app is a simple example and could be improved in many ways (features, user feedback etc). Also, this is my first project in Vue2.</b>
+
 ## Features
 - Import file (.txt, .js ...) and insert the content in the database
 - Create files directly from the app
@@ -23,7 +24,13 @@ db.documents.createIndex({
 ```
 
 3. Setup the app
-git clone https://github.com/cravier/Vue2-Meteor-MongoDB-Text-Research.git
-meteor update
-meteor npm install
-set/export MONGO_URL=mongodb://[user]:[password]@[HOST]:[PORT]/[DATABASE]
+- git clone https://github.com/cravier/Vue2-Meteor-MongoDB-Text-Research.git
+- meteor update
+- meteor npm install
+- set/export MONGO_URL=mongodb://[user]:[password]@[HOST]:[PORT]/[DATABASE]
+
+## Libs & Plugins used
+- <a href="https://vuetifyjs.com/">Vuetifyjs</a>
+- <a href="https://franzskuffka.github.io/vue-medium-editor/">Medium editor</a>
+
+Thanks to <a href="https://github.com/ReinargJ">Reinargj</a> to introduice me in Vuejs and <a href="https://github.com/Akryum">Akryum</a> for his handsome work around Vue and Meteor.
