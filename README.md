@@ -1,6 +1,6 @@
 # Vue2-Meteor-MongoDB-Text-Research
 
-Simple Vue2/Meteor/MongoDB app that illustrate the index text research with content/titles and tags system of files.
+Simple Vue2/Meteor/MongoDB app that illustrates the index text research with content/titles and tags system of files.
 
 <b>Please note that the app is a simple example and could be improved in many ways (features, user feedback etc). Also, this is my first project in Vue2.</b>
 
@@ -34,4 +34,4 @@ db.documents.createIndex({
 - <a href="https://vuetifyjs.com/">Vuetifyjs</a>
 - <a href="https://franzskuffka.github.io/vue-medium-editor/">Medium editor</a>
 
-Thanks to <a href="https://github.com/ReinargJ">Reinargj</a> to introduice me in Vuejs and <a href="https://github.com/Akryum">Akryum</a> for his handsome work around Vue and Meteor.
+Thanks to <a href="https://github.com/ReinargJ">Reinargj</a> who introduced me in Vuejs and <a href="https://github.com/Akryum">Akryum</a> for his awesome work around Vue and Meteor.
