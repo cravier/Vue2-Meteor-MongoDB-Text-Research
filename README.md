@@ -1,3 +1,5 @@
+# DEPRECATED !!
+
 # Vue2-Meteor-MongoDB-Text-Research
 
 Simple Vue2/Meteor/MongoDB app that illustrates the index text research with content/titles and tags system of files.
